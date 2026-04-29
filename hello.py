@@ -1,4 +1,4 @@
-print("Hello, Git!")
+print("Hello, Git! 欢迎学习分支冲突!")
 
 def add(a, b):
     return a + b
